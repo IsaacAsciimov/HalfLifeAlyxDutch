@@ -559,8 +559,8 @@ st
 nd
 rd
 <clr:255.0.0>Dit is rood<I> en cursief<B> en vetgedrukt<B><I><clr:255.255.255> wit.<cr>Dit is op een nieuwe regel.<sb>Dit is een nieuwe ondertitel in VR
-Alyx: <clr:255.190.255>Terrific.
-<clr:255.190.255>Go! We houden contact.
+Alyx: <clr:255.190.255>Geweldig.
+<clr:255.190.255>Ga nu! We houden contact.
 <clr:255.190.255>Wat is het?
 <clr:255.190.255>Honderd procent.
 <clr:255.190.255>Houdt je hoofd erbij en wees slim.
@@ -570,20 +570,20 @@ Alyx: <clr:255.190.255>Terrific.
 <clr:255.190.255><I>Jeff<I>
 <clr:255.190.255>Je maakt een grapje...
 <clr:255.190.255><sfx:1>[Hoesten]
-<clr:255.190.255><sfx:1>[Hoest Luider]
+<clr:255.190.255><sfx:1>[Luider hoesten]
 <clr:255.190.255>[Hoesten] Verdomme!
 <clr:255.190.255>[Hoesten] Ugh...
 <clr:255.190.255>Russell?
 <clr:255.190.255>Ik heb een ongeluk gehad.
 <clr:255.190.255>Wacht. Wacht. Waar is papa?
-<clr:255.190.255>Okay, begrepen.
-<clr:255.190.255>Dus... <I>Okay<I>, toch?
+<clr:255.190.255>Oké, begrepen.
+<clr:255.190.255>Dus... <I>Oké<I>, toch?
 <clr:255.190.255>Maar -
 <clr:255.190.255>...En je hebt me gered?
 <clr:255.190.255>Weten we waar ze hem naartoe brengen?
 <clr:255.190.255>Gereed.
 <clr:255.190.255>Hm. Werkte niet.
-<clr:255.190.255>Stilte werkt niet.
+<clr:255.190.255>Werkt nog steeds niet.
 <clr:255.190.255>Uh uh.
 <clr:255.190.255>Nope.
 <clr:255.190.255>Hoezo?
@@ -592,11 +592,11 @@ Alyx: <clr:255.190.255>Terrific.
 <clr:255.190.255>Oh!
 <clr:255.190.255>Ik heb het gedaan?
 <clr:255.190.255>Dus, wat doet een Vortigaunt hier?
-<clr:255.190.255>Rechts, maar ik bedoel in het algemeen.
+<clr:255.190.255>Klopt, maar ik bedoel in het algemeen.
 <clr:255.190.255>Oh. Het spijt me om -
 <clr:255.190.255>...Eli Vance...
-<clr:255.190.255>De Combine heeft hem, en ik moet echt in beweging komen.
-<clr:255.190.255>Look, ik waardeer -
+<clr:255.190.255>De Combine hebben hem, en ik moet echt in beweging komen.
+<clr:255.190.255>Kijk, ik waardeer -
 <clr:255.190.255>Ik kan niet blijven, ik -
 <clr:255.190.255>Ik weet zeker dat het zo is, maar -
 <clr:255.190.255>Okay.
