@@ -1,2 +1,2 @@
 # HalfLifeAlyxDutch
-Collaboration project for the Dutch localisation of Half Life Alyx
+Collaboratieproject voor Nederlandse vertaling van Half Life Alyx.
